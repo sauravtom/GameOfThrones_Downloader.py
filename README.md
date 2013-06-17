@@ -1,5 +1,4 @@
-
-Script to download videos from wgofo.com
+Script to download videos from wgofo.com (not sure if its completely legal though)
 
 
 
