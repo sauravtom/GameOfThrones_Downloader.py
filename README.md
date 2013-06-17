@@ -1,12 +1,9 @@
-GameOfThrones_Downloader.py
-===========================
 
 Script to download videos from wgofo.com
 
 
-[Imgur](http://i.imgur.com/WwtScX9.png?1)
 
-
+![Alt text](http://i.imgur.com/WwtScX9.png?1)
 
 dependencies :
 
